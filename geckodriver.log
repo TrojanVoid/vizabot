@@ -1,0 +1,1091 @@
+1680288773860	geckodriver	INFO	Listening on 127.0.0.1:61937
+1680288776916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileMedbgE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680288777218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680288777224	Marionette	INFO	Listening on port 61948
+Read port: 61948
+WebDriver BiDi listening on ws://127.0.0.1:61938
+1680288777354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileMedbgE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61938/devtools/browser/cb8e9bfc-d545-4f55-96f3-5ce7bb7a7d0e
+1680288839331	geckodriver	INFO	Listening on 127.0.0.1:61998
+1680288842381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileyJrytq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680288842668	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680288842672	Marionette	INFO	Listening on port 62006
+Read port: 62006
+WebDriver BiDi listening on ws://127.0.0.1:61999
+1680288842805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileyJrytq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61999/devtools/browser/0cec565c-075e-48d3-ad97-5c6e3ea1ad8d
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680288938186	geckodriver	INFO	Listening on 127.0.0.1:62119
+1680288941231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile8NaOEp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680288941530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680288941533	Marionette	INFO	Listening on port 62132
+Read port: 62132
+WebDriver BiDi listening on ws://127.0.0.1:62120
+1680288941655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile8NaOEp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62120/devtools/browser/9fe3c82d-8ba7-420d-a3ff-4294b30366ac
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680289022939	geckodriver	INFO	Listening on 127.0.0.1:62191
+1680289026005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile87zISx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289026284	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289026287	Marionette	INFO	Listening on port 62199
+Read port: 62199
+WebDriver BiDi listening on ws://127.0.0.1:62192
+1680289026404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile87zISx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62192/devtools/browser/207c9058-7217-46db-b00e-ef0ceb271258
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk CountryPage~Frontpage~ModListing~Multireddit~ProfileComments~ProfileOverview~ProfilePosts~Subreddit failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/CountryPage~Frontpage~ModListing~Multireddit~ProfileComments~ProfileOverview~ProfilePosts~Subreddit.e72fce90a7f3165091b9_.css)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680289127996	geckodriver	INFO	Listening on 127.0.0.1:62381
+1680289131059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileAZxBz2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289131337	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289131340	Marionette	INFO	Listening on port 62389
+Read port: 62389
+WebDriver BiDi listening on ws://127.0.0.1:62382
+1680289131461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileAZxBz2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62382/devtools/browser/7a32b918-eafb-467b-bf78-4ec3e41ee03e
+1680289160768	geckodriver	INFO	Listening on 127.0.0.1:62429
+1680289163801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62430" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileQkQZlB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289164080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289164083	Marionette	INFO	Listening on port 62437
+Read port: 62437
+WebDriver BiDi listening on ws://127.0.0.1:62430
+1680289164201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileQkQZlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62430/devtools/browser/3726c7a3-22b2-4028-ba48-9f6b62bb6888
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680289205475	geckodriver	INFO	Listening on 127.0.0.1:62529
+1680289208539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile7wqaj8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289208816	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289208819	Marionette	INFO	Listening on port 62537
+Read port: 62537
+WebDriver BiDi listening on ws://127.0.0.1:62530
+1680289208937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile7wqaj8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62530/devtools/browser/be6b0433-f2c2-4215-a97d-49c1853d9a4a
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680289469284	geckodriver	INFO	Listening on 127.0.0.1:62735
+1680289472315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilec7WkuV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289472591	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289472594	Marionette	INFO	Listening on port 62743
+Read port: 62743
+WebDriver BiDi listening on ws://127.0.0.1:62736
+1680289472712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilec7WkuV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62736/devtools/browser/e34a801b-5ced-41b7-86ef-29f42a25a374
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+1680289934886	geckodriver	INFO	Listening on 127.0.0.1:63131
+1680289937935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile5OPlBZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680289938207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680289938211	Marionette	INFO	Listening on port 63139
+Read port: 63139
+WebDriver BiDi listening on ws://127.0.0.1:63132
+1680289938329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile5OPlBZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63132/devtools/browser/62735459-8bc2-41f8-b6bc-7440d9833b75
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680290027219	Marionette	INFO	Stopped listening on port 63139
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680290828089	geckodriver	INFO	Listening on 127.0.0.1:50343
+1680290831149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileGSLtGQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680290831553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680290831559	Marionette	INFO	Listening on port 50351
+Read port: 50351
+WebDriver BiDi listening on ws://127.0.0.1:50344
+1680290831746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileGSLtGQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50344/devtools/browser/02e6dcc3-e37f-498a-906a-abc595a81c52
+1680290854332	Marionette	INFO	Stopped listening on port 50351
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680290868939	geckodriver	INFO	Listening on 127.0.0.1:50414
+1680290871964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilexVeCzq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680290872580	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680290872585	Marionette	INFO	Listening on port 50422
+Read port: 50422
+WebDriver BiDi listening on ws://127.0.0.1:50415
+1680290872874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilexVeCzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50415/devtools/browser/ce953b64-6bc3-4c01-831d-76278b69e0d9
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680291201751	geckodriver	INFO	Listening on 127.0.0.1:50678
+1680291204771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileq6gDTZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680291205154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680291205159	Marionette	INFO	Listening on port 50686
+Read port: 50686
+WebDriver BiDi listening on ws://127.0.0.1:50679
+1680291205343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileq6gDTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50679/devtools/browser/1db9792a-bd54-464f-b14f-238f9478ab11
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1680291413013	geckodriver	INFO	Listening on 127.0.0.1:60219
+1680291416039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofiler3fuf9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680291416417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680291416423	Marionette	INFO	Listening on port 60227
+Read port: 60227
+WebDriver BiDi listening on ws://127.0.0.1:60220
+1680291416588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofiler3fuf9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60220/devtools/browser/a62ccc7e-c4d7-4f3c-95c1-9a35690d3127
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680291547486	geckodriver	INFO	Listening on 127.0.0.1:60341
+1680291550510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileSDYA0M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680291550895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680291550900	Marionette	INFO	Listening on port 60349
+Read port: 60349
+WebDriver BiDi listening on ws://127.0.0.1:60342
+1680291551067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileSDYA0M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60342/devtools/browser/8a6221ea-2b37-4348-8d03-48d9ea748ec3
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3285: TypeError: can't access dead object
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 6450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680291736164	geckodriver	INFO	Listening on 127.0.0.1:60491
+1680291739185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileVqb72B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680291739698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680291739703	Marionette	INFO	Listening on port 60500
+Read port: 60500
+WebDriver BiDi listening on ws://127.0.0.1:60492
+1680291739959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileVqb72B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60492/devtools/browser/e8efd326-6e38-4f4b-99e4-7d133fb4333d
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680291997983	geckodriver	INFO	Listening on 127.0.0.1:60926
+1680292001030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile9Ordvm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680292001579	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680292001586	Marionette	INFO	Listening on port 60934
+Read port: 60934
+WebDriver BiDi listening on ws://127.0.0.1:60927
+1680292001830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile9Ordvm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60927/devtools/browser/cc63a438-7f04-430c-8f97-86f2c6eac615
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/shreddit/en-US/shreddit-player-de9ac60f.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680292351157	geckodriver	INFO	Listening on 127.0.0.1:61255
+1680292354189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileS5xrJz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680292354584	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680292354588	Marionette	INFO	Listening on port 61263
+Read port: 61263
+WebDriver BiDi listening on ws://127.0.0.1:61256
+1680292354755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileS5xrJz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61256/devtools/browser/a13759f7-b271-413b-8e23-2700df14f4db
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[Child 15620, MediaDecoderStateMachine #1] WARNING: Decoder=1b7f977dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 15620, MediaDecoderStateMachine #1] WARNING: Decoder=1b7f977dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680292448309	geckodriver	INFO	Listening on 127.0.0.1:61363
+1680292451352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile7Atbdx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680292451735	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680292451740	Marionette	INFO	Listening on port 61371
+Read port: 61371
+WebDriver BiDi listening on ws://127.0.0.1:61364
+1680292451899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile7Atbdx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61364/devtools/browser/9acf0537-0f9a-48b8-b1e8-627744f33df8
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680293009535	geckodriver	INFO	Listening on 127.0.0.1:61643
+1680293012573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileTr8TrE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293012972	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293012976	Marionette	INFO	Listening on port 61651
+Read port: 61651
+WebDriver BiDi listening on ws://127.0.0.1:61644
+1680293013153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileTr8TrE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61644/devtools/browser/e5ad731d-90da-462b-94db-5ae97c1910b3
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680293276211	geckodriver	INFO	Listening on 127.0.0.1:61777
+1680293279239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileUq3QJ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293279518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293279521	Marionette	INFO	Listening on port 61785
+Read port: 61785
+WebDriver BiDi listening on ws://127.0.0.1:61778
+1680293279642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileUq3QJ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61778/devtools/browser/e0154051-828d-41f7-b0ea-44bd6df45786
+1680293295098	geckodriver	INFO	Listening on 127.0.0.1:61821
+1680293298127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileNZXgpv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293298406	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293298409	Marionette	INFO	Listening on port 61830
+Read port: 61830
+WebDriver BiDi listening on ws://127.0.0.1:61822
+1680293298526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileNZXgpv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61822/devtools/browser/36925971-4941-4545-a871-1ce3b6dcced2
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[Child 10772, MediaDecoderStateMachine #1] WARNING: Decoder=2ebfca54800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10772, MediaDecoderStateMachine #1] WARNING: Decoder=2ebfca54800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1680293473763	geckodriver	INFO	Listening on 127.0.0.1:61935
+1680293476778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile4RTEhc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293477063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293477066	Marionette	INFO	Listening on port 61943
+Read port: 61943
+WebDriver BiDi listening on ws://127.0.0.1:61936
+1680293477184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile4RTEhc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61936/devtools/browser/28534d73-1647-4454-bfba-cc1b46db6de7
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680293536302	geckodriver	INFO	Listening on 127.0.0.1:62032
+1680293539349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile2NQahc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293539624	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293539628	Marionette	INFO	Listening on port 62040
+Read port: 62040
+WebDriver BiDi listening on ws://127.0.0.1:62033
+1680293539786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile2NQahc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62033/devtools/browser/4b20599f-2e07-4333-b8d1-0203c6818f12
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+1680293574348	geckodriver	INFO	Listening on 127.0.0.1:62105
+1680293577372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilelux6u8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293577655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293577659	Marionette	INFO	Listening on port 62113
+Read port: 62113
+WebDriver BiDi listening on ws://127.0.0.1:62106
+1680293577774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilelux6u8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62106/devtools/browser/c5e92ae0-43ac-461e-96ef-b3cf1918a816
+1680293665828	geckodriver	INFO	Listening on 127.0.0.1:62303
+1680293668874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileOf1y48"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293669160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293669163	Marionette	INFO	Listening on port 62311
+Read port: 62311
+WebDriver BiDi listening on ws://127.0.0.1:62304
+1680293669279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileOf1y48\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62304/devtools/browser/4cafcc9c-ccae-4f84-8f4f-a8b4ab2a1700
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680293707326	geckodriver	INFO	Listening on 127.0.0.1:62364
+1680293710361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileS0ms0I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293710636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293710639	Marionette	INFO	Listening on port 62372
+Read port: 62372
+WebDriver BiDi listening on ws://127.0.0.1:62365
+1680293710755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileS0ms0I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62365/devtools/browser/a8efc22c-d944-40ff-a37f-fc0a64bd7aab
+1680293737336	geckodriver	INFO	Listening on 127.0.0.1:62415
+1680293740400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileuAkxNZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293740681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293740685	Marionette	INFO	Listening on port 62424
+Read port: 62424
+WebDriver BiDi listening on ws://127.0.0.1:62416
+1680293740803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileuAkxNZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62416/devtools/browser/60a69544-1e0e-4e8d-828d-194b2864b995
+1680293758865	geckodriver	INFO	Listening on 127.0.0.1:62491
+1680293761922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileUWRaA5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293762202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293762206	Marionette	INFO	Listening on port 62499
+Read port: 62499
+WebDriver BiDi listening on ws://127.0.0.1:62492
+1680293762321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileUWRaA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62492/devtools/browser/f1e21ca9-e68e-4976-b263-863d60fbea05
+1680293825788	geckodriver	INFO	Listening on 127.0.0.1:62578
+1680293828839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilerWw99f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293829200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293829204	Marionette	INFO	Listening on port 62586
+Read port: 62586
+WebDriver BiDi listening on ws://127.0.0.1:62579
+1680293829341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilerWw99f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62579/devtools/browser/7d2e30cd-b0a0-4e5d-968e-f375785def21
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+[Child 14996, MediaDecoderStateMachine #1] WARNING: Decoder=1c49f40c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 14996, MediaDecoderStateMachine #1] WARNING: Decoder=1c49f40c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680293966123	geckodriver	INFO	Listening on 127.0.0.1:62705
+1680293969162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileNMeyPj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680293969441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680293969445	Marionette	INFO	Listening on port 62714
+Read port: 62714
+WebDriver BiDi listening on ws://127.0.0.1:62706
+1680293969576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileNMeyPj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62706/devtools/browser/1655f764-30d0-426c-a32f-63d979947924
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk Multireddit failed.
+(error: https://www.redditstatic.com/desktop2x/Multireddit.5988b729c4426c173e5e.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[Child 6164, MediaDecoderStateMachine #1] WARNING: Decoder=160b015a700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 6164, MediaDecoderStateMachine #1] WARNING: Decoder=160b015a700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680294398259	Marionette	INFO	Stopped listening on port 62714
+Dynamically enable window occlusion 1
+1680295625789	geckodriver	INFO	Listening on 127.0.0.1:63132
+1680295628812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileFuKQSW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680295629096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680295629099	Marionette	INFO	Listening on port 63140
+Read port: 63140
+WebDriver BiDi listening on ws://127.0.0.1:63133
+1680295629229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileFuKQSW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63133/devtools/browser/9e6b18ff-f985-4bb8-bae4-238a1b59ece0
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680295813873	geckodriver	INFO	Listening on 127.0.0.1:63268
+1680295816906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLig58n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680295817180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680295817183	Marionette	INFO	Listening on port 63276
+Read port: 63276
+WebDriver BiDi listening on ws://127.0.0.1:63269
+1680295817303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLig58n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63269/devtools/browser/20a2d877-60a8-4c50-acfd-7663aab71abb
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680295872952	geckodriver	INFO	Listening on 127.0.0.1:63371
+1680295876006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilei2MiP3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680295876292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680295876295	Marionette	INFO	Listening on port 63379
+Read port: 63379
+WebDriver BiDi listening on ws://127.0.0.1:63372
+1680295876420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilei2MiP3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63372/devtools/browser/60a924d6-e44b-4759-8309-bd62cc3df735
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680295927945	geckodriver	INFO	Listening on 127.0.0.1:63468
+1680295931001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile4cLvaX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680295931279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680295931283	Marionette	INFO	Listening on port 63476
+Read port: 63476
+WebDriver BiDi listening on ws://127.0.0.1:63469
+1680295931403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofile4cLvaX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63469/devtools/browser/c2e1d12f-699c-48e4-950d-c21abe4360bd
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk CountryPage~Multireddit failed.
+(error: https://www.redditstatic.com/desktop2x/CountryPage~Multireddit.deb97706b6fb02d0cb04.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.dbbeec29efaa65dad570.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680295971790	geckodriver	INFO	Listening on 127.0.0.1:63553
+1680295974812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileI0bmAZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680295975093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680295975096	Marionette	INFO	Listening on port 63561
+Read port: 63561
+WebDriver BiDi listening on ws://127.0.0.1:63554
+1680295975217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileI0bmAZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63554/devtools/browser/de7e9912-b9bf-4d73-81fe-955cdfd2ed60
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680296115635	geckodriver	INFO	Listening on 127.0.0.1:63654
+1680296118688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileatDr67"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296118985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296118988	Marionette	INFO	Listening on port 63662
+Read port: 63662
+WebDriver BiDi listening on ws://127.0.0.1:63655
+1680296119140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileatDr67\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63655/devtools/browser/1a7fade5-97dc-4b95-987d-11b1b5b23dcb
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680296306675	geckodriver	INFO	Listening on 127.0.0.1:63775
+1680296309686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilebc3aRu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296309965	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296309968	Marionette	INFO	Listening on port 63783
+Read port: 63783
+WebDriver BiDi listening on ws://127.0.0.1:63776
+1680296310086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilebc3aRu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63776/devtools/browser/dc2158d1-fb1e-4d54-a3ba-674ab73bbf92
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680296410319	Marionette	INFO	Stopped listening on port 63783
+Dynamically enable window occlusion 1
+1680296415117	geckodriver	INFO	Listening on 127.0.0.1:63859
+1680296418152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileYQN293"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296418424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296418427	Marionette	INFO	Listening on port 63867
+Read port: 63867
+WebDriver BiDi listening on ws://127.0.0.1:63860
+1680296418544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileYQN293\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63860/devtools/browser/6302ff9c-3a3a-4251-96f8-2ce80aa4332b
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680296475842	geckodriver	INFO	Listening on 127.0.0.1:63945
+1680296478859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilecOiSg6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296479132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296479136	Marionette	INFO	Listening on port 63953
+Read port: 63953
+WebDriver BiDi listening on ws://127.0.0.1:63946
+1680296479254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilecOiSg6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63946/devtools/browser/1bfc6e52-b8bd-4bdb-8257-3280a855f6a4
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680296904088	geckodriver	INFO	Listening on 127.0.0.1:64101
+1680296907102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileZjULj2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296907382	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296907386	Marionette	INFO	Listening on port 64109
+Read port: 64109
+WebDriver BiDi listening on ws://127.0.0.1:64102
+1680296907501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileZjULj2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64102/devtools/browser/fbc052c1-f204-45df-8b63-8ec81b64a310
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.eaac3ad75475ae213bf0_.css)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680296974218	geckodriver	INFO	Listening on 127.0.0.1:64199
+1680296977228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileDDI4iV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680296977505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680296977508	Marionette	INFO	Listening on port 64207
+Read port: 64207
+WebDriver BiDi listening on ws://127.0.0.1:64200
+1680296977624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileDDI4iV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64200/devtools/browser/cbde2d17-9fd3-47ba-9c76-380be619505c
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680297062294	geckodriver	INFO	Listening on 127.0.0.1:64313
+1680297065324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLxfXmd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680297065606	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680297065609	Marionette	INFO	Listening on port 64321
+Read port: 64321
+WebDriver BiDi listening on ws://127.0.0.1:64314
+1680297065724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLxfXmd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64314/devtools/browser/824822e8-c35c-4990-9210-d134a9db6943
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk NotificationsPrePromptLoader failed.
+(error: https://www.redditstatic.com/desktop2x/NotificationsPrePromptLoader.bf376437394794c9e1fc.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680297277630	geckodriver	INFO	Listening on 127.0.0.1:64807
+1680297280690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilehUwA4Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680297280970	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680297280973	Marionette	INFO	Listening on port 64815
+Read port: 64815
+WebDriver BiDi listening on ws://127.0.0.1:64808
+1680297281099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilehUwA4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64808/devtools/browser/39691bb5-9a01-49dc-af88-a40024c86220
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680297675099	geckodriver	INFO	Listening on 127.0.0.1:64978
+1680297678113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileRqvFvH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680297678391	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680297678394	Marionette	INFO	Listening on port 64986
+Read port: 64986
+WebDriver BiDi listening on ws://127.0.0.1:64979
+1680297678515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileRqvFvH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64979/devtools/browser/1de16cd6-a566-4a3e-9287-d74ff3f10539
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298196215	geckodriver	INFO	Listening on 127.0.0.1:51928
+1680298199267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileW4NVnE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298199546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298199550	Marionette	INFO	Listening on port 51938
+Read port: 51938
+WebDriver BiDi listening on ws://127.0.0.1:51929
+1680298199667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileW4NVnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51929/devtools/browser/51a226c2-dcb9-41fb-a91f-c3ee818900d8
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298342994	geckodriver	INFO	Listening on 127.0.0.1:52057
+1680298346062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileBp7LsS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298346358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298346361	Marionette	INFO	Listening on port 52065
+Read port: 52065
+WebDriver BiDi listening on ws://127.0.0.1:52058
+1680298346477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileBp7LsS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52058/devtools/browser/2cfdbd3e-1b59-469b-a084-07af49e33ecd
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298552947	geckodriver	INFO	Listening on 127.0.0.1:52169
+1680298555959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileWENOWD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298556235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298556238	Marionette	INFO	Listening on port 52177
+Read port: 52177
+WebDriver BiDi listening on ws://127.0.0.1:52170
+1680298556361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileWENOWD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52170/devtools/browser/8c981580-5f46-4803-9a22-1b321c9c28df
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298635836	geckodriver	INFO	Listening on 127.0.0.1:52263
+1680298638864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileA9Hb6L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298639139	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298639142	Marionette	INFO	Listening on port 52271
+Read port: 52271
+WebDriver BiDi listening on ws://127.0.0.1:52264
+1680298639265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileA9Hb6L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52264/devtools/browser/8a446205-13ab-4608-8ef8-59577ed0b23f
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298747196	geckodriver	INFO	Listening on 127.0.0.1:52361
+1680298750211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLMMbdJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298750491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298750495	Marionette	INFO	Listening on port 52369
+Read port: 52369
+WebDriver BiDi listening on ws://127.0.0.1:52362
+1680298750618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileLMMbdJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52362/devtools/browser/129b8cd5-a533-4398-a77e-ea23d06904c8
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680298820576	geckodriver	INFO	Listening on 127.0.0.1:52460
+1680298823609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileuuRTVp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680298823886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680298823890	Marionette	INFO	Listening on port 52468
+Read port: 52468
+WebDriver BiDi listening on ws://127.0.0.1:52461
+1680298824011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileuuRTVp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52461/devtools/browser/98580ec2-904c-43f6-8386-67038b74fa91
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680299020864	geckodriver	INFO	Listening on 127.0.0.1:52629
+1680299023907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilekw4EHH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680299024292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680299024296	Marionette	INFO	Listening on port 52665
+Read port: 52665
+WebDriver BiDi listening on ws://127.0.0.1:52630
+1680299024453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilekw4EHH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52630/devtools/browser/ccb4bf72-2009-4105-80b1-62b3f081060f
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680299192394	geckodriver	INFO	Listening on 127.0.0.1:52790
+1680299195409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileajMhps"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680299195678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680299195682	Marionette	INFO	Listening on port 52798
+Read port: 52798
+WebDriver BiDi listening on ws://127.0.0.1:52791
+1680299195804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofileajMhps\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52791/devtools/browser/06eb97aa-53d6-4ffb-abc0-abfa25f59dae
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3285: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3285: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3285: TypeError: can't access dead object
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c19a69ed00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c19a69ed00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1ad4b3200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1ad4b3200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1a265dd00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1a265dd00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1a12b4000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1a12b4000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk vendors~dashjs failed.
+(error: https://www.redditstatic.com/desktop2x/vendors~dashjs.518ef1c4a3ea00bc51bc.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.4afb102b1970995a0892.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.aa3b7806c19e05409e91.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bc125c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bc125c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bc125600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bc125600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bbd41300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1bbd41300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1b9bcc700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1b9bcc700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1b0befc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 22416, MediaDecoderStateMachine #1] WARNING: Decoder=1c1b0befc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.578b24215b8fa6fedf3e.js, line 1: TypeError: c.body is null
+1680353732748	geckodriver	INFO	Listening on 127.0.0.1:51214
+1680353735786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofiletK6RcL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680353736086	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680353736091	Marionette	INFO	Listening on port 51222
+Read port: 51222
+WebDriver BiDi listening on ws://127.0.0.1:51215
+1680353736219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofiletK6RcL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51215/devtools/browser/527dd5fc-f63f-461e-bbb5-5e9d3e07e4c0
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680354117324	geckodriver	INFO	Listening on 127.0.0.1:51367
+1680354120353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilerkNvvL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680354120635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680354120639	Marionette	INFO	Listening on port 51375
+Read port: 51375
+WebDriver BiDi listening on ws://127.0.0.1:51368
+1680354120755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\19COMP1020\\AppData\\Local\\Temp\\rust_mozprofilerkNvvL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51368/devtools/browser/b9e2cc00-dde9-46a5-ad2a-56f4705e5e49
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.9127f9bd825a597dfbad.js, line 1: Error: Failed to fetch tournaments
+JavaScript error: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.6474b56b714f7a66a60c.js, line 1: TypeError: c.body is null

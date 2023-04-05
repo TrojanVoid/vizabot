@@ -1,0 +1,13 @@
+*.png
+memes
+travel
+geckodriver.log
+start.bat
+
+*.pyc
+.DS_Store
+.env
+.venv
+__pycache__
+venv
+idea

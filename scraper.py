@@ -30,9 +30,9 @@ class Scraper():
         
     def setup_reddit_instance(self):
         self.reddit = praw.Reddit(
-        client_id = 'BwSrUSHNluLc58OTVGMP4A',
-        client_secret = 'H-gK5uixqXY62w44af8Z5wybH2wzzw',
-        user_agent = 'ContentScraper/0.1 by Trojaneo',
+        client_id = 'YOUR_CLIENT_ID',
+        client_secret = 'YOUR_CLIENT_SECRET',
+        user_agent = 'YOUR_USER_AGENT',
         )
         
     def get_submissions(self):
